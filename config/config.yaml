@@ -1,0 +1,11 @@
+SkinServer: https://daoxiangcity.com
+Port: :8233 # must be :port
+GitAddr: https://github.com.cnpmjs.org/C4a15Wh/DaoxiangCity
+JWT:
+  Secret: 
+SQLConfig:
+  Address: 127.0.0.1
+  Port: 3306
+  User: 
+  Password: 
+  DB:
